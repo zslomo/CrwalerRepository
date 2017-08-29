@@ -2,21 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="494ab778-3764-4e0a-979a-3fa407b1d3a1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dartaCompare.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/spotMarket/spotAnalysis.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/temprature/Data_by0823.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/temprature/temp.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/temprature/total.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temPreCrwaler.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uitil/readReverse.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Crwaler.py" afterPath="$PROJECT_DIR$/Crwaler.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.MD" afterPath="$PROJECT_DIR$/README.MD" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dartaCompare.py" afterPath="$PROJECT_DIR$/dartaCompare.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dateModify.py" afterPath="$PROJECT_DIR$/dateModify.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lancher.py" afterPath="$PROJECT_DIR$/lancher.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temPreCrwaler.py" afterPath="$PROJECT_DIR$/temPreCrwaler.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.py" afterPath="$PROJECT_DIR$/test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uitil/readReverse.py" afterPath="$PROJECT_DIR$/uitil/readReverse.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,10 +21,10 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/meteorological_crwaler$temPreCrwaler.coverage" NAME="temPreCrwaler Coverage Results" MODIFIED="1503633079018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/meteorological_crwaler$test.coverage" NAME="test Coverage Results" MODIFIED="1503656029981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/meteorological_crwaler$test.coverage" NAME="test Coverage Results" MODIFIED="1503974874853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/meteorological_crwaler$dartaCompare.coverage" NAME="dartaCompare Coverage Results" MODIFIED="1503562261835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/meteorological_crwaler$Crwaler.coverage" NAME="Crwaler Coverage Results" MODIFIED="1503456740838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/meteorological_crwaler$lancher.coverage" NAME="lancher Coverage Results" MODIFIED="1503456792176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/meteorological_crwaler$lancher.coverage" NAME="lancher Coverage Results" MODIFIED="1503976186709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -48,38 +42,44 @@
       <file leaf-file-name="Crwaler.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Crwaler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1566">
-              <caret line="60" column="82" lean-forward="false" selection-start-line="60" selection-start-column="82" selection-end-line="60" selection-end-column="82" />
+            <state relative-caret-position="270">
+              <caret line="10" column="28" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="28" />
+              <folding>
+                <element signature="e#32#41#0" expanded="true" />
+                <marker date="1503975536347" expanded="true" signature="1235:1290" ph="INSERT INTO tableDate... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dateModify.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dateModify.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="96" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Mito.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/temprature/Mito.csv">
+      <file leaf-file-name="lancher.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lancher.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="617517">
-              <caret line="22871" column="19" lean-forward="false" selection-start-line="22871" selection-start-column="19" selection-end-line="22871" selection-end-column="19" />
-              <folding />
+            <state relative-caret-position="443">
+              <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+              <folding>
+                <element signature="e#33#53#0" expanded="true" />
+                <marker date="1503976186656" expanded="true" signature="1009:1050" ph="SELECT * FRO... tableDate" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="total.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/temprature/total.csv">
+      <file leaf-file-name="temPreCrwaler.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/temPreCrwaler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Yokokama.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/temprature/Yokokama.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="54">
+              <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -88,67 +88,68 @@
       <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state relative-caret-position="594">
+              <caret line="22" column="16" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="22" selection-end-column="16" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
-                <marker date="1503656029929" expanded="true" signature="396:425" ph="INSERT INTO spotMarket... " />
-                <marker date="1503656029929" expanded="true" signature="396:426" ph="INSERT INTO spotMarket... " />
-                <marker date="1503656029929" expanded="true" signature="396:430" ph="INSERT INTO spotMarket... " />
-                <marker date="1503656029929" expanded="true" signature="580:613" ph="INSERT INTO tableDate... " />
-                <marker date="1503656029929" expanded="true" signature="939:967" ph="INSERT INTO Chiba... " />
-                <marker date="1503656029929" expanded="true" signature="987:999" ph="DELETE FROM " />
-                <marker date="1503656029929" expanded="true" signature="1312:1325" ph="SELECT * FRO... " />
-                <marker date="1503656029929" expanded="true" signature="1312:1326" ph="SELECT * FRO... Chiba" />
+                <marker date="1503975019257" expanded="true" signature="401:430" ph="INSERT INTO spotMarket... " />
+                <marker date="1503975019257" expanded="true" signature="401:431" ph="INSERT INTO spotMarket... " />
+                <marker date="1503975019257" expanded="true" signature="401:435" ph="INSERT INTO spotMarket... " />
+                <marker date="1503975019257" expanded="true" signature="604:637" ph="INSERT INTO tableDate... " />
+                <marker date="1503975019257" expanded="true" signature="971:999" ph="INSERT INTO Chiba... " />
+                <marker date="1503975019257" expanded="true" signature="1019:1031" ph="DELETE FROM " />
+                <marker date="1503975019257" expanded="true" signature="1344:1357" ph="SELECT * FRO... " />
+                <marker date="1503975019257" expanded="true" signature="1344:1358" ph="SELECT * FRO... Chiba" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="spotAnalysis.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/spotMarket/spotAnalysis.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="spot2017.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/spotMarket/spot2017.csv">
+      <file leaf-file-name="README.MD" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.MD">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="27">
-              <caret line="6" column="109" lean-forward="false" selection-start-line="6" selection-start-column="109" selection-end-line="6" selection-end-column="109" />
+              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Data_by0823.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/temprature/Data_by0823.csv">
-          <provider selected="true" editor-type-id="LargeFileEditor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Kafu.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/temprature/Kafu.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2041713">
-              <caret line="75619" column="9" lean-forward="false" selection-start-line="75619" selection-start-column="0" selection-end-line="75619" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Maebashi.csv" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Maebashi.csv" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/temprature/Maebashi.csv">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="783">
+              <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="temp.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/temprature/temp.csv">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dartaCompare.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dartaCompare.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readReverse.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uitil/readReverse.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -185,15 +186,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/psglControll.py" />
-        <option value="$PROJECT_DIR$/Crwaler.py" />
-        <option value="$PROJECT_DIR$/uitil/readReverse.py" />
         <option value="$PROJECT_DIR$/spot2017.csv" />
         <option value="$PROJECT_DIR$/spotAnalysis.csv" />
-        <option value="$PROJECT_DIR$/dartaCompare.py" />
-        <option value="$PROJECT_DIR$/dateModify.py" />
-        <option value="$PROJECT_DIR$/lancher.py" />
         <option value="$PROJECT_DIR$/data/spotMarket/spotAnalysis.csv" />
-        <option value="$PROJECT_DIR$/temPreCrwaler.py" />
         <option value="$PROJECT_DIR$/data/temprature/44.csv" />
         <option value="$PROJECT_DIR$/data/temprature/43.csv" />
         <option value="$PROJECT_DIR$/data/temprature/49.csv" />
@@ -205,7 +200,14 @@
         <option value="$PROJECT_DIR$/data/temprature/Tokyo.csv" />
         <option value="$PROJECT_DIR$/data/temprature/Yokokama.csv" />
         <option value="$PROJECT_DIR$/data/temprature/Mito.csv" />
+        <option value="$PROJECT_DIR$/uitil/readReverse.py" />
+        <option value="$PROJECT_DIR$/dartaCompare.py" />
+        <option value="$PROJECT_DIR$/dateModify.py" />
+        <option value="$PROJECT_DIR$/temPreCrwaler.py" />
+        <option value="$PROJECT_DIR$/README.MD" />
         <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/Crwaler.py" />
+        <option value="$PROJECT_DIR$/lancher.py" />
       </list>
     </option>
   </component>
@@ -268,6 +270,11 @@
               <item name="data" type="462c0819:PsiDirectoryNode" />
               <item name="temprature" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="meteorological_crwaler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meteorological_crwaler" type="462c0819:PsiDirectoryNode" />
+              <item name="uitil" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -305,7 +312,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.lancher">
     <configuration name="Crwaler" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -405,10 +412,10 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.test" />
-        <item index="1" class="java.lang.String" itemvalue="Python.temPreCrwaler" />
-        <item index="2" class="java.lang.String" itemvalue="Python.dartaCompare" />
-        <item index="3" class="java.lang.String" itemvalue="Python.lancher" />
+        <item index="0" class="java.lang.String" itemvalue="Python.lancher" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test" />
+        <item index="2" class="java.lang.String" itemvalue="Python.temPreCrwaler" />
+        <item index="3" class="java.lang.String" itemvalue="Python.dartaCompare" />
         <item index="4" class="java.lang.String" itemvalue="Python.Crwaler" />
       </list>
     </recent_temporary>
@@ -424,18 +431,27 @@
       <option name="presentableId" value="Default" />
       <updated>1503302856308</updated>
     </task>
+    <task id="LOCAL-00001" summary="big addition">
+      <created>1503973552662</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1503973552662</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1216" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10572917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10572917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48141432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48141432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -456,6 +472,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="big addition" />
+    <option name="LAST_COMMIT_MESSAGE" value="big addition" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="1" />
@@ -474,7 +494,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="29" />
-          <folding />
+          <folding>
+            <element signature="e#32#41#0" expanded="true" />
+            <marker date="1503975536347" expanded="true" signature="1235:1290" ph="INSERT INTO tableDate... " />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -489,6 +512,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+          <folding>
+            <element signature="e#33#53#0" expanded="true" />
+            <marker date="1503976186656" expanded="true" signature="1009:1050" ph="SELECT * FRO... tableDate" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -496,6 +523,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#33#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -503,7 +533,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1269">
           <caret line="49" column="13" lean-forward="false" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="e#32#41#0" expanded="true" />
+            <marker date="1503975536347" expanded="true" signature="1235:1290" ph="INSERT INTO tableDate... " />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -518,6 +551,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+          <folding>
+            <element signature="e#33#53#0" expanded="true" />
+            <marker date="1503976186656" expanded="true" signature="1009:1050" ph="SELECT * FRO... tableDate" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -525,7 +562,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1269">
           <caret line="49" column="13" lean-forward="false" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="e#32#41#0" expanded="true" />
+            <marker date="1503975536347" expanded="true" signature="1235:1290" ph="INSERT INTO tableDate... " />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -540,6 +580,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+          <folding>
+            <element signature="e#33#53#0" expanded="true" />
+            <marker date="1503976186656" expanded="true" signature="1009:1050" ph="SELECT * FRO... tableDate" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -547,7 +591,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1431">
           <caret line="55" column="72" lean-forward="false" selection-start-line="55" selection-start-column="72" selection-end-line="55" selection-end-column="72" />
-          <folding />
+          <folding>
+            <element signature="e#32#41#0" expanded="true" />
+            <marker date="1503975536347" expanded="true" signature="1235:1290" ph="INSERT INTO tableDate... " />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -562,6 +609,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding>
+            <element signature="e#33#53#0" expanded="true" />
+            <marker date="1503976186656" expanded="true" signature="1009:1050" ph="SELECT * FRO... tableDate" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -569,7 +620,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1485">
           <caret line="55" column="72" lean-forward="false" selection-start-line="55" selection-start-column="72" selection-end-line="55" selection-end-column="72" />
-          <folding />
+          <folding>
+            <element signature="e#32#41#0" expanded="true" />
+            <marker date="1503975536347" expanded="true" signature="1235:1290" ph="INSERT INTO tableDate... " />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -584,6 +638,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="6" column="47" lean-forward="true" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+          <folding>
+            <element signature="e#33#53#0" expanded="true" />
+            <marker date="1503976186656" expanded="true" signature="1009:1050" ph="SELECT * FRO... tableDate" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -623,27 +681,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/uitil/readReverse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lancher.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="41" lean-forward="false" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.MD">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/pyhdb/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
@@ -655,20 +692,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
           <caret line="257" column="0" lean-forward="false" selection-start-line="257" selection-start-column="0" selection-end-line="257" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dartaCompare.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dateModify.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -684,13 +707,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/temPreCrwaler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="77" lean-forward="false" selection-start-line="8" selection-start-column="77" selection-end-line="8" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/temprature/Chiba.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -699,13 +715,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/temprature/Saitama.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/temprature/temp.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -744,14 +753,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Crwaler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1566">
-          <caret line="60" column="82" lean-forward="false" selection-start-line="60" selection-start-column="82" selection-end-line="60" selection-end-column="82" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/temprature/Data_by0823.csv">
       <provider selected="true" editor-type-id="LargeFileEditor">
         <state relative-caret-position="0">
@@ -764,24 +765,6 @@
         <state relative-caret-position="2041713">
           <caret line="75619" column="9" lean-forward="false" selection-start-line="75619" selection-start-column="0" selection-end-line="75619" selection-end-column="9" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-            <marker date="1503656029929" expanded="true" signature="396:425" ph="INSERT INTO spotMarket... " />
-            <marker date="1503656029929" expanded="true" signature="396:426" ph="INSERT INTO spotMarket... " />
-            <marker date="1503656029929" expanded="true" signature="396:430" ph="INSERT INTO spotMarket... " />
-            <marker date="1503656029929" expanded="true" signature="580:613" ph="INSERT INTO tableDate... " />
-            <marker date="1503656029929" expanded="true" signature="939:967" ph="INSERT INTO Chiba... " />
-            <marker date="1503656029929" expanded="true" signature="987:999" ph="DELETE FROM " />
-            <marker date="1503656029929" expanded="true" signature="1312:1325" ph="SELECT * FRO... " />
-            <marker date="1503656029929" expanded="true" signature="1312:1326" ph="SELECT * FRO... Chiba" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -803,9 +786,97 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data/temprature/Maebashi.csv">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/temprature/temp.csv">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uitil/readReverse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temPreCrwaler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.MD">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="16" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="22" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1503975019257" expanded="true" signature="401:430" ph="INSERT INTO spotMarket... " />
+            <marker date="1503975019257" expanded="true" signature="401:431" ph="INSERT INTO spotMarket... " />
+            <marker date="1503975019257" expanded="true" signature="401:435" ph="INSERT INTO spotMarket... " />
+            <marker date="1503975019257" expanded="true" signature="604:637" ph="INSERT INTO tableDate... " />
+            <marker date="1503975019257" expanded="true" signature="971:999" ph="INSERT INTO Chiba... " />
+            <marker date="1503975019257" expanded="true" signature="1019:1031" ph="DELETE FROM " />
+            <marker date="1503975019257" expanded="true" signature="1344:1357" ph="SELECT * FRO... " />
+            <marker date="1503975019257" expanded="true" signature="1344:1358" ph="SELECT * FRO... Chiba" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dateModify.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="96" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dartaCompare.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Crwaler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="28" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="28" />
+          <folding>
+            <element signature="e#32#41#0" expanded="true" />
+            <marker date="1503975536347" expanded="true" signature="1235:1290" ph="INSERT INTO tableDate... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lancher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+          <folding>
+            <element signature="e#33#53#0" expanded="true" />
+            <marker date="1503976186656" expanded="true" signature="1009:1050" ph="SELECT * FRO... tableDate" />
+          </folding>
         </state>
       </provider>
     </entry>

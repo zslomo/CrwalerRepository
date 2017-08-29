@@ -1,6 +1,7 @@
 import sqlite3
 import csv
 
+# 测试
 prec = ['Tokyo', 'Chiba', 'Yokokama', 'Saitama', 'Kafu', 'Mito', 'Maebashi']
 conn = sqlite3.connect('temprature.db')
 
@@ -14,12 +15,12 @@ c = conn.cursor()
 # conn.commit()
 # conn.close()
 
-
-
-data = '\'' + 'spotMarket' + '\'' + ',' + '\'' + '8/26/2017' + '\'' + ',' + '\'' + '24' + '\''
-i = ''' INSERT INTO tableDate VALUES ({})'''.format(data)
-print(i)
-c.execute(i)
+#
+for e in prec:
+    data = '\'' + e + '_pre' + '\'' + ',' + '\'' + '1/1/2009' + '\'' + ',' + '\'' + '0' + '\''
+    i = ''' INSERT INTO tableDate VALUES ({})'''.format(data)
+    print(i)
+    c.execute(i)
 conn.commit()
 conn.close()
 

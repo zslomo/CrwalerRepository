@@ -1,5 +1,6 @@
 import csv
 
+#比较给定的温度数据与爬取数据的区别
 dataFile = 'data/temperature/Data_by0823.csv'
 
 totalFile = 'data/temperature/total.csv'

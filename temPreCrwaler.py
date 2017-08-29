@@ -2,7 +2,7 @@
 import re
 import requests
 import urllib
-
+#爬取预测数据
 file = 'data/spotMarket/spot2017.csv'
 wfile = 'data/spotMarket/sportAnalysis.csv'
 

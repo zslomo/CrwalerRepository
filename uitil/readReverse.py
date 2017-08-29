@@ -1,5 +1,5 @@
 import os
-
+# 从结尾开始读一个文件
 
 def readlines_reverse(filename):
     with open(filename) as qfile:
